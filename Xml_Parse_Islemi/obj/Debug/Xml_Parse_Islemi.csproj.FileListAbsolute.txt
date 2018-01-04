@@ -1,0 +1,12 @@
+c:\users\kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\bin\Debug\Xml_Parse_Islemi.exe.config
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\bin\Debug\Xml_Parse_Islemi.exe
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\bin\Debug\Xml_Parse_Islemi.pdb
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.csprojResolveAssemblyReference.cache
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.Giris.resources
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.Properties.Resources.resources
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.Menu.resources
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.csproj.GenerateResource.Cache
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.exe
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.pdb
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.ParseIslemi.resources
+C:\Users\Kübra\documents\visual studio 2013\Projects\Xml_Parse_Islemi\Xml_Parse_Islemi\obj\Debug\Xml_Parse_Islemi.Xml_Detay.resources
